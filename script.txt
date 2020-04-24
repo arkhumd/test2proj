@@ -1,1 +1,3 @@
 This is the first script of git repository
+
+Some last minute changes in master
