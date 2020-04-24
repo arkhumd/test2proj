@@ -8,4 +8,7 @@ oh man!.. some more changes
 
 Some last minute changes in master
 
+
+missed otu some changes in feature 3 from laste deployment. adding them
+
 some latest changes done in master and should come in laste part of the code
