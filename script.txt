@@ -8,3 +8,5 @@ oh man!.. some more changes
 
 Some last minute changes in master
 
+
+missed otu some changes in feature 3 from laste deployment. adding them
