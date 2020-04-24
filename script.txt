@@ -3,3 +3,5 @@ This is the first script of git repository
 changes for feature3
 
 more changes for feature 3 - commit2
+
+oh man!.. some more changes
